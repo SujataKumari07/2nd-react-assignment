@@ -24,8 +24,11 @@ Add new tasks and ensure they are stored and retrieved correctly from localStora
 
 Tools and Techniques:
 Manual Testing: Perform the above steps manually by interacting with your application in the browser.
+
 Console Logging: Use console.log() statements in your React components (e.g., in useEffect hooks) to log task states, input values, and localStorage interactions. 
                  This helps in verifying that data is being stored and manipulated correctly.
+                 
 React Developer Tools: Use browser extensions like React Developer Tools to inspect component states and props during interactions. This can help in debugging 
                        and verifying component behavior.
+                       
 Cross-browser Testing: Ensure your application works correctly across different browsers (Chrome, Firefox, Safari, etc.) to catch any browser-specific issues.
