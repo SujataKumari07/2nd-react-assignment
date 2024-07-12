@@ -2,6 +2,7 @@ React-Assignment-2
 CELEBAL TECHNOLOGIES - REACT JS TRAINING, ASSIGNMENT-2 : TO-DO LIST Develop a React To-Do List component allowing task addition, removal, and completion marking. 
 Validate task input, display tasks dynamically, and offer optional sorting, filtering, and localStorage integration. Submit code on Git with brief testing guidance. 
 
+Here is the testing guidance....
 Input Validation:
 Attempt to add an empty task (just spaces or no input).
 Verify that an empty task is not added and no changes occur in the task list.
